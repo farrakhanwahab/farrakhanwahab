@@ -14,11 +14,6 @@ I'm actively working on projects that help me:
 - Explore both web and mobile platforms  
 - Strengthen my full-stack development skills
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=farrakhanwahab&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farrakhanwahab&layout=compact&theme=radical)
-
 ## Tech Stack Icons
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,java,flutter,tailwind,figma,postgres,mysql,firebase,supabase" />
 
