@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Farrakhan
 
-<!--
-**farrakhanwahab/farrakhanwahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and curious software developer currently building projects to grow my portfolio and strengthen my skills in web and mobile app development.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: React, Next.js, Tailwind CSS, Flutter, Figma  
+- Backend: Node.js, Java, Supabase, Firebase  
+- Databases: MySQL, PostgreSQL  
+- Tools: Git, GitHub, VS Code, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects & Goals
+I'm actively working on projects that help me:
+- Apply what I'm learning in real-world scenarios  
+- Explore both web and mobile platforms  
+- Strengthen my full-stack development skills
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=farrakhanwahab&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farrakhanwahab&layout=compact&theme=radical)
+
+## Tech Stack Icons
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,java,flutter,tailwind,figma,postgres,mysql,firebase,supabase" />
+
+---
+
+Thanks for visiting my profile. Feel free to check out my repositories and follow along.
