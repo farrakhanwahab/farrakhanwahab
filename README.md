@@ -6,7 +6,7 @@ I'm a passionate and curious software developer currently building projects to g
 - Frontend: React, Next.js, Tailwind CSS, Flutter, Figma  
 - Backend: Node.js, Java, Supabase, Firebase  
 - Databases: MySQL, PostgreSQL  
-- Tools: Git, GitHub, VS Code, Android Studio
+- Tools: Git, GitHub, VS Code, Android Studio, Xcode
 
 ## Projects & Goals
 I'm actively working on projects that help me:
