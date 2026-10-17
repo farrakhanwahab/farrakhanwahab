@@ -1,9 +1,9 @@
 # Hi there, I'm Farrakhan
 
-I'm a passionate and curious software developer currently building projects to grow my portfolio and strengthen my skills in web and mobile app development.
+I'm a passionate Software Engineer currently building projects to grow my portfolio and strengthen my skills in web and mobile app development.
 
 ## Tech Stack
-- Frontend: React, Next.js, Tailwind CSS, Flutter, Figma  
+- Frontend: React, Next.js, Flutter  
 - Backend: Node.js, Java, Supabase, Firebase  
 - Databases: MySQL, PostgreSQL  
 - Tools: Git, GitHub, VS Code, Android Studio, Xcode
@@ -15,7 +15,7 @@ I'm actively working on projects that help me:
 - Strengthen my full-stack development skills
 
 ## Tech Stack Icons
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,java,flutter,tailwind,figma,postgres,mysql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,java,flutter,postgres,mysql,firebase,supabase" />
 
 ---
 
