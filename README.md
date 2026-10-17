@@ -8,12 +8,6 @@ I'm a passionate Software Engineer currently building projects to grow my portfo
 - Databases: MySQL, PostgreSQL  
 - Tools: Git, GitHub, VS Code, Android Studio, Xcode
 
-## Projects & Goals
-I'm actively working on projects that help me:
-- Apply what I'm learning in real-world scenarios  
-- Explore both web and mobile platforms  
-- Strengthen my full-stack development skills
-
 ## Tech Stack Icons
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,java,flutter,postgres,mysql,firebase,supabase" />
 
